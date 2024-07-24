@@ -22,4 +22,4 @@
 
 
 # Skill stacks
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,go,java,css,scss,tailwindcss,react,next,vue,nuxt,fastapi,docker,postgresql,mysql,linux,git,github,gitlab,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,python,go,java,ruby,css,scss,tailwindcss,materialui,react,next,vue,nuxt,vite,webpack,npm,pnpm,yarn,fastapi,pytorch,rails,workers,docker,postgresql,mysql,redis,sqlite,linux,git,github,githubactions,gitlab,vscode,idea,aws,cloudflare,figma,firebase,nginx,notion,postman)](https://skillicons.dev)
